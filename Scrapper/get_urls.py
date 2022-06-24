@@ -34,6 +34,6 @@ def getUrls():
             urls.append(url)
 
         else:
-            break
+            continue
 
     return urls
